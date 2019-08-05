@@ -8,7 +8,7 @@ BOB 멘토님이 만들어주신 web hacking training(이하 BOB WHT)에 대한 
 
 
 
-![img2](190805/img2.PNG)
+![img2]({{site.url}}/img/190805/img2.PNG)
 
 스크립트 까면 그냥 나옵니다.
 
