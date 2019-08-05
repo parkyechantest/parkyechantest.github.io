@@ -1,7 +1,7 @@
-name: "Jekyll true minimal theme"
-description: "Lightweight theme"
+name: "parkyechan :)"
+description: ""
 
-url: '' 
+url: ''
 baseurl: ''
 
 markdown: kramdown
@@ -24,4 +24,3 @@ gems: ['jekyll-paginate']
 sass:
     style: :compressed
     sass_dir: assets/css/
-
