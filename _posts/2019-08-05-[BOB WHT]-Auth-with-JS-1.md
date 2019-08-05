@@ -2,7 +2,7 @@
 
 BOB 멘토님이 만들어주신 web hacking training(이하 BOB WHT)에 대한 풀이를 진행해보도록 하겠습니다.
 
-![img1]({{site.baseurl}}/img/190805/img1.png)
+![img1]({{site.url}}/img/190805/img1.png)
 
 로그인 폼.
 
